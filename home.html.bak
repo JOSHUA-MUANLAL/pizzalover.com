@@ -1,0 +1,120 @@
+<html>
+<head>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+</svg>
+<link rel="stylesheet" href="home.css">    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<h1 style="color:white;font-size:70px;text-shadow:0 0 7px black;text-align:center;font-family:ROG Fonts;"> W E B Z</h1>
+
+<br><br><br><br><br><br><br><br><br></head>
+<body>
+<script>
+function my_self(){
+document.getElementById('my_self').innerHTML="<p class='self'>"+"MY SELF JOSHUA"+"</p>"+"<p class='cons'>"+"Joshua or you can call me josh... An anime lover(weeb) so, yeah am single<br><br> current purseuing BCA from <a href='https://www.msijanakpuri.com/' alt='Collage_name'>maharaja surajmal institute</a><br>completed my 12 from <a href='https://www.apsudhampur.org/'>Army public school, udhampur</a> in J&K and did my 10th from<a href='https://apsshankarvihar.ac.in/'> army public school, shankar vihar</a>Delhi &nbsp.</p><br> <p class='self'>My Insterest</p><p class='cons'>Interested in learning computer languages and explaore more about information practise "+
+"Apart from that i like gaming , i mostly play <a href='https://warthunder.com/en'>WAR THUNDER</a>,<a href='https://www.battlegroundsmobileindia.com/'>PUBG MOBILE</a> , <a href='https://playvalorant.com/en-gb/'>valorant</a><br> ." ;
+
+}
+
+
+</script>
+
+
+
+
+
+
+
+
+<div  class="container">
+<div class="row" >
+<div class="a col-xs-3" ><br>MY GALARY<br>
+<div class="aa">
+<br><a href="" style="text-decoration:none;">Photography</a>
+<hr><a href="" style="text-decoration:none;">Sketching<hr></a>
+<a href="" style="text-decoration:none;">Gaming<hr></a>
+
+</div>
+
+</div>
+
+
+<div class="b col-3"><br>ANIME
+<div class="bb">
+<a href="https://animixplay.to/anime/16498/Shingeki_no_Kyojin" style="text-decoration:none;"><hr>Attack on titans 2</a>
+<a href="https://animixplay.to/anime/25777/Shingeki_no_Kyojin_Season_2" style="text-decoration:none;"><hr>Attack on titans 3</a>
+<a href="https://animixplay.to/v1/shingeki-no-kyojin-season-3" style="text-decoration:none;"><hr>Attack on titans 4</a>
+<a href="https://animixplay.to/v1/ousama-ranking" style="text-decoration:none;"><hr>Ranking of kings</a>
+<a href="" style="text-decoration:none;"><hr>MORE<hr></a>
+
+</div>
+
+</div>
+
+
+<div class="c col-3" onclick="my_self()"><br>ABOUT ME<br>
+
+</div>
+
+
+<div class="d col-3"><br>LEARN<br>
+
+
+</div><br><br>
+</div>
+<!--inrto-->
+
+<p class="intro">
+This website is created for the sole purpose of Photography ,Graphic designing and Sketching 
+</p><br><br>
+
+<p id="my_self"></p>
+<center>
+
+
+<!--PHOTOGRAPHY-->
+<a href="" style="text-decoration:none;"><div class="photo">
+<p class="phead" ><font face="ROG Fonts">WHAT IS PHOTOGRAPHY</p><br><br>
+<p class="pcon"> Photography is the art of capturing and processing light using a sensor or film. But the essence of photography is to treasure moments and share them with the world. Quite simple, but the action itself is capable of changing people’s perceptions.
+
+A photo can have a deeper meaning and tell thousands of important stories. One of the best examples is photos taken during the war.
+
+There are many eye-opening photos circulated during the war.
+
+Some photos snap the winners’ glorious moment while the others show the utter devastation of citizens caught in the crossfire.
+
+But that’s not all, folks; photography also has the nature of having multiple interpretations, especially in modern photography and art.</p>
+
+</div></a></center>
+
+<!--gaming-->
+
+<a href="" style="text-decoration:none;"><div class="game">
+<p class="ghead">what is gaming</p><br><br>
+<p class="gcon">Gaming refers to playing electronic games, whether through consoles, computers, mobile phones or another medium altogether. Gaming is a nuanced term that suggests regular gameplay, possibly as a hobby. Although traditionally a solitary form of relaxation, online multiplayer video games have made gaming a popular group activity as well.
+</p>
+
+</div></a>
+
+
+<!--SKETCH-->
+<a href="" style="text-decoration:none;">
+<div class="sketch">
+<p class="shead">WHAt IS SKETCHING</p><br><br>
+<p class="scon">Sketching traditionally refers to a preliminary rough type of drawing that an artist might make in preparation for either a painting or a more formal drawing (like a study). A sketch is less detailed than a study - a study may be a highly detailed rendition of something to be used in a large composition. Of course sketching is also a form of doodling that a person may do to pass time with no end goal in mind. </p>
+</div>
+</a>
+
+
+
+
+</div>
+<div class="bottom">
+Privacy | javascript | Html | css | bootstrap | <br>
+<a href="https://instagram.com/mltjoshua_pizza_lover?igshid=YmMyMTA2M2Y=" style="text-decoration:none;color:white;"><i class="bi bi-instagram" style="font-size:40;"></i></a> &nbsp &nbsp      <a href="https://www.facebook.com/settings?tab=account&section=username" style="text-decoration:none;color:white;font-size:40;>"<i class="bi bi-facebook" ></i> </a>    <i class="bi bi-pubg" style="font-size:40;"></i></div></a>
+

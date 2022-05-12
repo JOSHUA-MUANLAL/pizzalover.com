@@ -1,0 +1,53 @@
+<html><head>
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="1.css">    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"></head>
+
+<body>
+<script>
+function trans(){
+var s=1000000000;
+var x;
+for(x=0;x<=s;x++){
+if(x==s){
+var img="<img src='R.gif' style='width:100%;'></img>";
+document.getElementById("button").innerHTML=img;}}
+
+
+ 
+ 
+ }
+ 
+ function go(){
+ var go="let's go"
+ document.getElementById("go").innerHTML=go;
+ }
+
+
+</script>
+
+
+
+
+<div style="padding-top: 25%;
+  padding-right: %;
+  padding-bottom: 20%;
+  padding-left: %;
+  text-align:center;
+  background-color:black;
+  background-image:url('1bg.gif');
+  height:100%;background-size:100% 100%;">
+  
+  <a href="home.html"><button class="btn" id="button" style="background-color:grey;width:165px;height:50px;border-radius:10px;duration:2s;font-family:Collegiate;font-weight:bold;font-size:20;font-family:ROG fonts;" onclick="trans()"  >
+  <p id="go" onmouseover="go()">WELCOME</p></button>
+  
+  
+  
+  
+  
+  </div>

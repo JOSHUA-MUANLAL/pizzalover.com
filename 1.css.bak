@@ -1,0 +1,4 @@
+body{background-image:url('1bg.gif');
+background-color:red;
+background-attachment:fixed;
+background-size:100% 100%;}
