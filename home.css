@@ -3,7 +3,7 @@ body{background-image:url('bgb.jpg');
 background-attachment:fixed;
 background-size:100% 100%;}
 
-div.row{border-size:1px;border-style:solid;height:100%;border-radius:10px;font-weight:bold;font-family:ROG Fonts;width:100%vh;height:20%}
+div.row{border-size:1px;border-style:solid;height:100%;border-radius:10px;font-weight:bold;font-family:ROG Fonts;width:15vh;height:20%}
 
 div.a{text-align:center;display:block;position:relative;font-size:30px;background:rgba(0, 243, 255,.71);height:100%;border-radius:5px;width:25%}
 .aa{display:none;font-size:20;}
